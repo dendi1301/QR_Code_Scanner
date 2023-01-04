@@ -36,4 +36,4 @@ Add camera permission and hardware feature to AndroidManifest.xml (Don't forget 
 
 
 ### Preview
-![Preview screenshot](https://rsachmadmochtar.net/github/Barcode_Scanner.jpeg)
+![Preview screenshot](https://rsachmadmochtar.net/github/qrcode_scanner.jpeg)
