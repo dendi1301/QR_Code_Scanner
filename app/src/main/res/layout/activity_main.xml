@@ -35,7 +35,7 @@
 
         <TextView
             android:id="@+id/titleActionBar"
-            android:text="Pindai QR Code\nUntuk Check Menyimpan Data"
+            android:text="Pindai QR Code\nUntuk Melihat Kode QR"
             android:textColor="@android:color/black"
             android:textSize="18sp"
             android:textStyle="bold"
